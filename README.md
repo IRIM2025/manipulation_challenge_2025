@@ -115,7 +115,12 @@ the node will subscribe to the following topics:
 
 /xtion/rgb/image_raw
 ```
-  
+## Extra Documentation
+Here you can find the link to the documentation of the robots:
+1. <a href="https://docs.pal-robotics.com/tiago-single/">TIAGo</a>
+2. <a href="https://docs.pal-robotics.com/tiago-dual/">TIAGo ++
+3. <a href="https://docs.pal-robotics.com/tiago-omni-base/">TIAGo omni base
+   
 ## Issues:
 
 If you encounter any issues, please contact us at our email address:
